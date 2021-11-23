@@ -11,7 +11,8 @@ public class DateClass {
 	
 	public DateClass(String a) 
 	{
-		System.out.println("Parameterized Constructor is invoked");
+		System.out.println("Parameterized Constructor invoked when object is created ");
+		System.out.println("Parameterized Constructor invoked when object is created ");
 	}
 	
 	public void getdata() 
