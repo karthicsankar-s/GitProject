@@ -13,12 +13,13 @@ public class DateClass {
 	{
 		System.out.println("Parameterized Constructor invoked when object is created ");
 		System.out.println("Parameterized Constructor invoked when object is created ");
-		System.out.println("Parameterized Constructor invoked when object is created ");
+		System.out.println("Parameterized Constructor invoked when object is created ");		
 	}
 	
 	public void getdata() 
 	{
 		System.out.println("getData");
+		System.out.println("getData2");
 	}
 	
 	public static void get() 
