@@ -34,7 +34,7 @@ public class DateClass {
 
 		
 
->>>>>>> Practise
+
 	}
 	
 	public static void get() 
